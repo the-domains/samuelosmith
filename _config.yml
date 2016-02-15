@@ -1,6 +1,6 @@
 name: samuelosmith
 favicon: null
-layout_spectrum: 0.4850066597573459
+layout_spectrum: 0.2557
 typography_spectrum: 0.419321627356112
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.21469118539243937
-  lightness: 0.16853002551943064
-  saturation: 0.3904959848150611
-  rhythmicContrast: 0.4281982802785933
+    - '#232221'
+    - '#f58025'
+    - '#f3f3f3'
+    - '#7f4b25'
+    - '#9d9fa1'
+  brandStrength: 0.125
+  lightness: 0.9375
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
