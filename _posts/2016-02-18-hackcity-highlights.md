@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Samuel Smith
-    url: 'http://vimeo.com/samuelsmith'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/155771603'
+inLanguage: en
+starred: false
 keywords:
   - j-cuts
   - l-cuts
@@ -21,7 +17,13 @@ keywords:
   - pretty
   - film
 description: 'This is "HackCity Highlights" by samuelsmith on Vimeo, the home for high quality videos and the people who love them.'
-inLanguage: en
+datePublished: '2016-02-18T03:44:40.568Z'
+dateModified: '2016-02-18T03:44:38.342Z'
+author:
+  - name: Samuel Smith
+    url: 'http://vimeo.com/samuelsmith'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/155771603'
     type: ios
@@ -32,15 +34,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/155771603'
 title: HackCity Highlights
-datePublished: '2016-02-18T03:44:17.049Z'
-dateModified: '2016-02-18T03:42:19.617Z'
 sourcePath: _posts/2016-02-18-hackcity-highlights.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
