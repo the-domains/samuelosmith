@@ -17,8 +17,8 @@ keywords:
   - energy
   - jam
 description: "At Hack City, hackers, concerned citizens and passionate observers converged for GreenBiz Group's three-day marathon aimed at developing applications (mobile and web-based) aiming to create efficiencies in the energy, building management and transportation sectors. The event took place at Code for America's San Francisco offices."
-datePublished: '2016-02-18T03:29:00.260Z'
-dateModified: '2016-02-18T03:28:46.433Z'
+datePublished: '2016-02-18T03:42:48.773Z'
+dateModified: '2016-02-18T03:29:07.721Z'
 author:
   - name: GreenBiz
     url: 'https://www.youtube.com/user/greenbiz'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=Yz5vGKMH4Kw&feature=applinks'
     type: web
 title: Hack City 2012 Highlights
+sourcePath: _posts/2016-02-18-hack-city-2012-highlights.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-18-hack-city-2012-highlights.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
